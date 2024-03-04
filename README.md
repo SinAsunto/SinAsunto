@@ -1,4 +1,4 @@
-Hi 👋 My name is SinAsunto
+Hi 👋 I'm SinAsunto
 ==========================
 
 Backend Developer
