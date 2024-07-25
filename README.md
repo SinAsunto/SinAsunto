@@ -1,7 +1,7 @@
 Hi 👋 I'm SinAsunto
 ==========================
 
-![banner_sinasunto](https://github.com/user-attachments/assets/94ecee6a-56a0-4707-8a71-fea191148ab7)
+![banner_sinasunto](https://github.com/user-attachments/assets/4e8ba0c4-9ee3-45bd-8f22-1c2351d0199c)
 
 Backend Developer
 -----------------
