@@ -3,6 +3,7 @@
 Hi 👋 I'm SinAsunto
 ==========================
 
-* 🌍  I'm based in Colombia
-* 🧠  I'm learning AI
-* 🤝  I'm open to collaborating on Backend, RPA o AI projects
+* 🌍 Based in Colombia
+* 💻 A Full Stack Developer specializing in backend development and automation
+* 🤖 I have extensive experience in Robotic Process Automation (RPA)
+* 🤝 Open to collaborating on exciting and innovative projects across various fields
