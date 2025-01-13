@@ -3,7 +3,5 @@
 Hi 👋 I'm SinAsunto
 ==========================
 
-* 🌍 Based in Colombia
-* 💻 A Full Stack Developer specializing in backend development and automation
-* 🤖 I have extensive experience in Robotic Process Automation (RPA)
+* 💻 Full Stack Developer | Backend, RPA & AI
 * 🤝 Open to collaborating on exciting and innovative projects across various fields
